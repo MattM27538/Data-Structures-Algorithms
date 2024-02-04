@@ -1,6 +1,7 @@
-// CSCI 311 - Spring 2023
-// Graph class cpp
+// Graph.cpp
 // Author: Matthew Martinez
+// Description: File contains constructor for a graph and common 
+// functions to interact with the graph.
 
 #include <iostream>
 #include "Graph.h"
